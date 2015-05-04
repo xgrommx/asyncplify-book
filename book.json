@@ -7,6 +7,7 @@
         "anchors",
         "youtube"
     ],
+    "theme": "theme",
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",

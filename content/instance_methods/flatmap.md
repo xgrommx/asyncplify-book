@@ -4,4 +4,8 @@
 
 #### Example
 
-[](http://jsbin.com/mefade/3/embed?js,console)
+[](http://jsbin.com/hosoxi/1/embed?js,console)
+
+#### Example with maxConcurrency
+
+[](http://jsbin.com/xaqate/1/embed?js,console)

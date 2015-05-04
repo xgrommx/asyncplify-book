@@ -4,4 +4,4 @@
 
 #### Example
 
-[](http://jsbin.com/mefade/2/embed?js,console)
+[](http://jsbin.com/sukuce/1/embed?js,console)
